@@ -67,7 +67,7 @@ html {
 /* Banner End */
 /* Container1 Start */
 #container1 {
-    background-image: url('/Images/Container1\ Background\ Desgin.png');
+    background-image: url('./Images/Container1\ Background\ Desgin.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -120,7 +120,7 @@ html {
 /* Container1 End */
 /* Container2 Start */
 #container2 {
-    background-image: url('/Images/Container2\ Background\ Image.png');
+    background-image: url('./Images/Container2\ Background\ Image.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -175,7 +175,7 @@ html {
 
 /* Container3 Start */
 #container3 {
-    background-image: url('/Images/Container3\ Background\ Image.png');
+    background-image: url('./Images/Container3\ Background\ Image.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -230,7 +230,7 @@ html {
 
 /* container4 Start */
 #container4 {
-    background-image: url('/Images/Container4\ Background\ Image.png');
+    background-image: url('./Images/Container4\ Background\ Image.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -296,7 +296,7 @@ html {
 /* container4 End */
 /* container5 Start */
 #container5 {
-    background-image: url('/Images/Container5\ Background\ Image.png');
+    background-image: url('./Images/Container5\ Background\ Image.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -381,7 +381,7 @@ html {
 
 /* container6 Start */
 #container6 {
-    background-image: url('/Images/Container6\ Background\ Image.png');
+    background-image: url('./Images/Container6\ Background\ Image.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -413,7 +413,7 @@ html {
 
 /* container7 Start */
 #container7 {
-    background-image: url('/Images/Container7\ Background\ Image.png');
+    background-image: url('./Images/Container7\ Background\ Image.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -480,7 +480,7 @@ form {
 
     /* Banner Start */
     #banner {
-        background-image: url('/Images/Banner\ Background.jpg');
+        background-image: url('./Images/Banner\ Background.jpg');
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -527,7 +527,7 @@ form {
     /* Banner End */
     /* Container1 Start */
     #container1 {
-        background-image: url('/Images/Container1\ Background\ Desgin.png');
+        background-image: url('./Images/Container1\ Background\ Desgin.png');
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -586,7 +586,7 @@ form {
     /* Container1 End */
     /* Container2 Start */
     #container2 {
-        background-image: url('/Images/Container2\ Background\ Image.png');
+        background-image: url('./Images/Container2\ Background\ Image.png');
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -640,7 +640,7 @@ form {
     /* Container2 End */
     /* Container3 Start */
     #container3 {
-        background-image: url('/Images/Container3\ Background\ Image.png');
+        background-image: url('./Images/Container3\ Background\ Image.png');
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -697,7 +697,7 @@ form {
     /* Container3 End */
     /* container4 Start */
     #container4 {
-        background-image: url('/Images/Container4\ Background\ Image.png');
+        background-image: url('./Images/Container4\ Background\ Image.png');
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -766,7 +766,7 @@ form {
     /* container4 End */
     /* container5 Start */
     #container5 {
-        background-image: url('/Images/Container5\ Background\ Image.png');
+        background-image: url('./Images/Container5\ Background\ Image.png');
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -852,7 +852,7 @@ form {
     /* container5 End */
     /* container6 Start */
     #container6 {
-        background-image: url('/Images/Container6\ Background\ Image.png');
+        background-image: url('./Images/Container6\ Background\ Image.png');
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -883,7 +883,7 @@ form {
     /* container6 End */
     /* container7 Start */
     #container7 {
-        background-image: url('/Images/Container7\ Background\ Image.png');
+        background-image: url('./Images/Container7\ Background\ Image.png');
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
