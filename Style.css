@@ -17,7 +17,7 @@ html {
 
 /* Banner Start */
 #banner {
-    background-image: url('/Images/Banner\ Background.jpg');
+    background-image: url('./Images/Banner\ Background.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
